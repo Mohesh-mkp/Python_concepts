@@ -5,4 +5,4 @@ Object-oriented programming (OOP) is a programming paradigm that uses objects to
 * Object
 * Inheritance
 * [Polymorphism](https://github.com/Mohesh-mkp/Python_concepts/blob/main/Polymorphism.md)
-* Encapsulation
+* [Encapsulation](https://github.com/Mohesh-mkp/Python_concepts/blob/main/Encapsulation.md)
